@@ -58,7 +58,7 @@ public class TC_001
 		Assert.assertEquals(ExpectedTitle.toString(),ReturnedItemTitle.toString().trim());
 		
 		SignOut_Action.signOutExecute();
-		System.out.println("Change from mano");
+		System.out.println("Change from mano1111");
 		
 	}
 	
